@@ -2,11 +2,6 @@
 
 A modern, intelligent English vocabulary learning web application built with **Native PHP**, **MySQL**, and **Bootstrap 5**. This system helps users identify and track words they repeatedly forget using a smart duplicate detection algorithm and spaced repetition scheduling.
 
-![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstrap)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## 🌟 Features
